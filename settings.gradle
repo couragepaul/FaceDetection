@@ -1,0 +1,3 @@
+include ':facedetect'
+include ':app'
+rootProject.name = "FaceDetectAPI"
